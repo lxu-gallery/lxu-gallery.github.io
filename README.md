@@ -1,3 +1,6 @@
 # Gallery
 
-Image compressing: [link](https://compressjpeg.com/)
+Image compressing:
+1. ImageOptim
+2. Wechat
+3. [link](https://compressjpeg.com/)
