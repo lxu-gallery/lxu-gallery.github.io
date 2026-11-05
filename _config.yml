@@ -2,6 +2,7 @@ title: Leon's Gallery
 author: Leon Xu
 email: leonxu798@gmail.com
 description: Everything is a miracle.
+url: https://lxu-gallery.github.io
 
 social:
   twitter:
@@ -19,3 +20,15 @@ plugins:
 collections:
   images:
     output: true
+
+# Repo files that are not part of the site. Setting this replaces Jekyll's
+# default list, so the defaults (Gemfile ... vendor/ruby/) are repeated here.
+exclude:
+  - AGENTS.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
